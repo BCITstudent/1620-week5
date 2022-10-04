@@ -2,14 +2,11 @@
     color: #ff000f;
 }
 
-p{
-    background-color: #f5f5dc; 
-}
-
 .parispara{
     background-color:#f5f5dc;
 }
 
 #london-heading{
-    background-color:pink
+    background-color:pink;
+    color: blue;
 }
